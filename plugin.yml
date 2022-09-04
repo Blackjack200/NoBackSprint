@@ -1,0 +1,7 @@
+---
+name: NoBackSprint
+version: 0.0.1
+main: Blackjack200\NoBackSprint\Main
+api: 4.0.0
+src-namespace-prefix: Blackjack200\NoBackSprint
+...
